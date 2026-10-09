@@ -1,0 +1,12 @@
+# Autobuild repository policy.
+# Values auto-detected from GitHub repo settings on 2026-10-09.
+
+# Default branch for setup PRs and merges.
+branch: main
+
+# Merge method for setup PRs. Repo allows merge commits, squash, and rebase;
+# squash is used as the standard default.
+mergeMethod: squash
+
+# Human approval is required before a setup PR can merge.
+requireHumanMerge: true
