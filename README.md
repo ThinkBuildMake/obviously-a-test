@@ -1,10 +1,10 @@
 # obviously-a-test
 
-A test repository used to exercise the agent workflow.
+Hello, World! A test repository used to exercise the agent workflow.
 
 ## Purpose
 
-End-to-end checks of the automation pipeline: commits, branches, and pull requests. This README is the first test commit.
+End-to-end checks of the automation pipeline: commits, branches, and pull requests.
 
 ## Notes
 
